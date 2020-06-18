@@ -1,38 +1,108 @@
 <html lang="ko-KR">
 
 <head>
-	<title> my trip </title>
-	<meta charset="utf-8">
+<title>Jeonga Portpolio</title>
+<meta charset="utf-8">
 
-	<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji+2&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100&family=Pacifico&display=swap" rel="stylesheet">
 
 	<style>
-			img{display: block;
-			margin-left: auto;
-			margin-right: auto;
-			margin-top: 80px;}
 
-			.menu {font-family: 'Baloo Paaji 2', cursive;
-			       font-size: 16px;
-			       color: rgb(88,89,91);
-			       text-align: center;
-			   	   margin-bottom: : 60px;
-			       margin-top: 60px;}
+		*{
+		box-sizing: border-box;
+		margin: 0px;
+		padding: 0px;
+		}
 
-			a{margin-left: : 10px;
-			  margin-right: 10px;}
+		div {
+  		float:left;
+		}
+
+		.clearfix{
+  		clear:both;
+		}
+		
+		#header{
+    	display: inline-block;
+    	position: relative;
+		height:900px;
+    	width:100%;
+		background-color:red;
+  		}
+
+		#header h1{
+    	display: inline-block;
+    	position: absolute;
+		font-family: 'Pacifico', cursive;
+		color: black;
+		text-align: left;
+		font-size: 52px;
+    	text-decoration:none;
+    	padding-top : 30px;
+  		padding-left: 3%;
+		}
+
+		#main{
+    	margin-top: 85px;
+		margin-left:auto;
+  		margin-right:auto;
+    	background-color: white;
+    	height:730px;
+    	width:100%;
+  		}
+
+    	#main-helper{
+    	background-color: pink;
+    	height:730px;
+    	width:10%;}
+
+    	#main-img{
+  		margin-left:0px;
+    	background-color: orange;
+    	height:730px;
+    	width:78%;
+  		}
+
+   		#main-img h2{
+    	font-family: 'Noto Sans KR', sans-serif;
+    	height: 730px;
+    	line-height: 730px;
+    	text-align: center;
+    	font-size: 30px;
+    	}
+
+
+		#contact{
+  		width:2%;
+  		height: 730px;
+  		background-color: blue;
+		}
+	
+    	#contact p{
+   		font-size: 15px;
+   		writing-mode: vertical-rl;
+    	display: inline-block;
+    	position: absolute;
+		}
+
 
 	</style>
 </head>
 
 
 <body>
-	<img src="image/logo.png" width="165px" height="58px">
-	
-	<div class="menu">
-		<a href="home.html"><b>Home</b></a>
-		<a href="seoul.html">Seoul</a>
-		<a href="tokyo.html">Tokyo</a>
-		<a href="paris.html">Paris</a>
 
-	<img src="image/home.png" width="90%">
+<div id="header">
+	<h1>Jeonga Kim</h1>
+	<div id="main">
+		<div id="main-helper"></div>
+		<div id="main-img"><h2>"Good design is thorough down to the last detail"</h2></div>
+        <div id="contact"><p><b>CONTACT ME</b></p></div>
+  		<div id="main-helper"></div>
+    </div>
+</div>
+      
+
+
+
+	
