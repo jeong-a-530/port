@@ -34,4 +34,4 @@
 		<a href="tokyo.html">Tokyo</a>
 		<a href="paris.html">Paris</a>
 
-	<img src="home.png" width="90%">
+	<img src="image/home.png" width="90%">
