@@ -26,7 +26,7 @@
 
 
 <body>
-	<img src="logo.png" width="165px" height="58px">
+	<img src="image/logo.png" width="165px" height="58px">
 	
 	<div class="menu">
 		<a href="home.html"><b>Home</b></a>
