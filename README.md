@@ -1,6 +1,7 @@
 <html lang="ko-KR">
 
 <head>
+	<title> my trip </title>
 	<meta charset="utf-8">
 
 	<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji+2&display=swap" rel="stylesheet">
