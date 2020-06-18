@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ko-KR">
 
 <head>
@@ -36,5 +35,3 @@
 		<a href="paris.html">Paris</a>
 
 	<img src="home.png" width="90%">
-</body>
-</html>
