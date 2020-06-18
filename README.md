@@ -81,9 +81,6 @@
 
 
 	</style>
-</head>
-
-
 <body>
 
 <div id="header">
@@ -95,7 +92,7 @@
   		<div id="main-helper"></div>
     </div>
 </div>
-      
+</body>
 
 
 
