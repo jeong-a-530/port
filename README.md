@@ -1,7 +1,6 @@
 <html lang="ko-KR">
 
 <head>
-<title>Jeonga Portpolio</title>
 <meta charset="utf-8">
 
 <link href="https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@700&family=Noto+Serif:wght@700&family=Roboto&family=Ubuntu:wght@500&display=swap" rel="stylesheet">
@@ -35,7 +34,7 @@
 	background-color:red;
   	}
 
-	#header h1{
+	.logo{
     display: inline-block;
     position: absolute;
     position: fixed;
@@ -180,3 +179,8 @@
 </div>
 
 <div id="helper"></div>
+      
+
+
+
+	
