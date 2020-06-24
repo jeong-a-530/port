@@ -156,7 +156,6 @@
 			<div class="work-date">2020/02/02</div>
 	</div>
 <div id="work-helper"></div>
-</div>
 
 <div id="work-helper"></div>
 	<div class="work">
@@ -166,7 +165,7 @@
 			<div class="work-date">2020/02/02</div>
 	</div>
 <div id="work-helper"></div>
-</div>
+
 
 <div id="work-helper"></div>
 	<div class="work">
